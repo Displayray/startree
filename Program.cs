@@ -30,15 +30,3 @@ for(int i = 1; i <= n; i++)
     
     Console.WriteLine();
 }
-
-/* 
-    for(int xi = 0; xi < i; xi++)
-    {
-        Console.Write("*");
-    }
-    for(int punkte = n-i; punkte > 0; punkte--)
-    {
-        Console.Write(".");
-    }
-    Console.WriteLine();
-*/
